@@ -3,15 +3,15 @@
 
 /* css variables */
 :root{
-    --primary-font: 'Inter', sans-serif;
-    --secondary-font: 'Macondo', cursive;
+    --primary-font: "Inter", sans-serif;
+    --secondary-font: "Macondo", cursive;
     --primary-color: #416age; /* blue */
 }
 
 /* general styles */
 body{
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
 }
 h1{
-    font-family: 'Macondo', cursive; !important;
+    font-family: "Macondo", cursive; 
 }
