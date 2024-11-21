@@ -30,6 +30,14 @@ h3 {
     color: var(--highlight-color)
 }
 
+/* navbar css */
+#navbar{
+    background-color: var(--primary-color);
+}
+#navbar.logo{
+    width: 30px;
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
@@ -41,3 +49,4 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 } */
+
